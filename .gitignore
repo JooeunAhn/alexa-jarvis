@@ -99,4 +99,5 @@ staticfiles
 
 .project
 .DS_Store
-secret
+secret.py
+*.ini
