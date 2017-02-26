@@ -87,3 +87,15 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Django
+db.sqlite3
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+
+media
+staticfiles
+
+.project
+.DS_Store
