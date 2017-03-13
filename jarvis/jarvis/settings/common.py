@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     # THIRD PARTY APPS
     'rest_framework',
     'django_alexa',
+
+    'hogwart',
 ]
 
 MIDDLEWARE = [
